@@ -4,10 +4,10 @@
 
 I'm currently working at Modifii Technologies Ltd as a software engineer.
 
-Skills:  REACT / JS / HTML / CSS / Java / C/C++ /Node JS
+Skills:  REACT / JavaScript / Redux / TypeScript / Node JS
 
-- 🔭 I’m currently working on React JS 
-- 🌱 I’m currently learning Next Js 
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning Socket.IO, GraphQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-mehedi-hasan-nabil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NabilMehedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mehedihasannabil49)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/md-mehedi-hasan-nabil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sleepy-pasteur-968636.netlify.app/)  
