@@ -2,8 +2,6 @@
 #### I am web developer. 
 ![I am web developer.](https://i.ibb.co/Z6KRFZY/md-mehedi-hasan-nabil.jpg)
 
-I'm currently working at Modifii Technologies Ltd as a software engineer.
-
 Skills:  REACT / JavaScript / Redux / TypeScript / Node JS
 
 - 🔭 I’m currently working on MERN Stack
