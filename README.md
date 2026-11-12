@@ -1,75 +1,73 @@
-<h1 align="center">Hi 👋, I'm Md. Mehedi Hasan Nabil</h1>
-<h3 align="center">A passionate Software Engineer & JavaScript Developer from Bangladesh</h3>
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Md. Mehedi Hasan Nabil — Full-Stack Software Engineer" />
+</p>
 
 <p align="center">
-  <img src="https://i.ibb.co/0yLhrWzm/1725422083762.jpg" alt="Md. Mehedi Hasan Nabil" />
+  <img src="https://komarev.com/ghpvc/?username=md-mehedi-hasan-nabil&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1224" alt="Location" />
+  <img src="https://img.shields.io/badge/Open_to-Remote_Work-34D399?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0B1224" alt="Open to remote work" />
 </p>
 
----
+<!-- ================= ABOUT ================= -->
+<p align="center"><img src="./assets/title-about.svg" width="100%" alt="About Me" /></p>
+<p align="center"><img src="./assets/terminal.svg" width="100%" alt="whoami — Full-Stack Software Engineer from Dhaka" /></p>
 
-### 👨‍💻 About Me
+<!-- ================= FOCUS ================= -->
+<p align="center"><img src="./assets/title-focus.svg" width="100%" alt="What I Work On" /></p>
+<p align="center"><img src="./assets/focus.svg" width="100%" alt="Backend & APIs · Real-time Systems · Payments · Frontend & Dashboards" /></p>
 
-I'm a self-motivated and detail-oriented **Software Engineer** with a focus on **JavaScript technologies** and the **MERN stack (MongoDB, Express.js, React, Node.js)**. I have experience building scalable full-stack applications and REST APIs. I enjoy solving real-world problems, optimizing performance, and writing clean, maintainable code.
-
-- 💼 Currently working as a Full-Stack Web Developer
-- 🌱 Learning real-time features with **Socket.IO** and advanced **GraphQL** concepts
-- 🔧 Passionate about **Backend Architecture**, **Code Quality**, and **DevOps Basics**
-- 🧠 Always exploring new tech trends and engineering best practices
-- 🤝 Open to remote roles and exciting collaboration opportunities
-
----
-
-### 🚀 Tech Stack & Tools
-
-#### Frontend:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-#### Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=fff)
-
-#### Tools & DevOps:
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/md-mehedi-hasan-nabil" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/NabilMehedi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://codepen.io/mehedihasannabil49" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/md-mehedi-hasan-nabil" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://sleepy-pasteur-968636.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=icloud&logoColor=white"/></a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=md-mehedi-hasan-nabil&theme=gruvbox&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats
+<!-- ================= STACK ================= -->
+<p align="center"><img src="./assets/title-stack.svg" width="100%" alt="Tech Stack" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-mehedi-hasan-nabil&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-mehedi-hasan-nabil&theme=radical" alt="GitHub streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mehedi-hasan-nabil&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,mongodb,graphql,nextjs,react,redux&theme=dark" alt="Core stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,flutter,dart,git,github,postman,vscode,vercel,netlify,linux&theme=dark" alt="Tools" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.IO-0B1224?style=for-the-badge&logo=socketdotio&logoColor=22D3EE" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Mongoose-0B1224?style=for-the-badge&logo=mongoose&logoColor=F87171" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/RTK_Query-0B1224?style=for-the-badge&logo=redux&logoColor=A78BFA" alt="RTK Query" />
+  <img src="https://img.shields.io/badge/Ant_Design-0B1224?style=for-the-badge&logo=antdesign&logoColor=3B82F6" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Agenda.js-0B1224?style=for-the-badge&logo=clockify&logoColor=34D399" alt="Agenda.js" />
+  <img src="https://img.shields.io/badge/Stripe-0B1224?style=for-the-badge&logo=stripe&logoColor=818CF8" alt="Stripe" />
+</p>
+
+<!-- ================= STATS ================= -->
+<p align="center"><img src="./assets/title-stats.svg" width="100%" alt="GitHub Analytics" /></p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=md-mehedi-hasan-nabil&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&border_radius=16&bg_color=30,0B1224,1E1B4B&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&ring_color=8B5CF6" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mehedi-hasan-nabil&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=30,0B1224,1E1B4B&title_color=22D3EE&text_color=CBD5E1" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=md-mehedi-hasan-nabil&hide_border=true&border_radius=16&background=30,0B1224,1E1B4B&ring=8B5CF6&fire=EC4899&currStreakNum=E2E8F0&currStreakLabel=22D3EE&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B&stroke=334155" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-mehedi-hasan-nabil&bg_color=0B1224&color=CBD5E1&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&title_color=22D3EE&hide_border=true&radius=16&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+</p>
+
+<!-- Snake animation — generated by .github/workflows/snake.yml (run it once from the Actions tab) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-mehedi-hasan-nabil/md-mehedi-hasan-nabil/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-mehedi-hasan-nabil/md-mehedi-hasan-nabil/output/github-snake.svg" />
+    <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/md-mehedi-hasan-nabil/md-mehedi-hasan-nabil/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- ================= CONNECT ================= -->
+<p align="center"><img src="./assets/title-connect.svg" width="100%" alt="Let's Connect" /></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-mehedi-hasan-nabil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1224" alt="LinkedIn" /></a>
+  <a href="https://mehedi-nabil.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1224" alt="Portfolio" /></a>
+  <a href="https://x.com/NabilMehedi"><img src="https://img.shields.io/badge/X-Follow-E2E8F0?style=for-the-badge&logo=x&logoColor=white&labelColor=0B1224" alt="X" /></a>
+  <a href="https://codepen.io/mehedihasannabil49"><img src="https://img.shields.io/badge/CodePen-Explore-22D3EE?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0B1224" alt="CodePen" /></a>
+</p>
+
+<!-- ================= FOOTER ================= -->
+<p align="center"><img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by!" /></p>
