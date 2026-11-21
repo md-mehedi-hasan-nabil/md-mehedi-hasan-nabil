@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="GitHub stats overview">
+<style>.sans{font-family:'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif}.mono{font-family:'JetBrains Mono', 'Fira Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace}</style>
+<defs>
+  <clipPath id="frame"><rect width="1200" height="300" rx="24"/></clipPath>
+  <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1224"/><stop offset="1" stop-color="#141B3C"/></linearGradient>
+  <radialGradient id="glowA" cx="0" cy="0" r="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.28"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowB" cx="1" cy="1" r="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.16"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899" stop-opacity="0"/></linearGradient>
+  <linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#22D3EE"/><stop offset="0.3" stop-color="#3B82F6"/><stop offset="0.55" stop-color="#8B5CF6"/><stop offset="0.8" stop-color="#EC4899"/><stop offset="1" stop-color="#22D3EE"/><animateTransform attributeName="gradientTransform" type="translate" values="0 0;1 0" dur="7s" repeatCount="indefinite"/></linearGradient>
+  <linearGradient id="t0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#3B82F6"/></linearGradient><linearGradient id="t1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient><linearGradient id="t2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EC4899"/><stop offset="1" stop-color="#F97316"/></linearGradient><linearGradient id="t3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBBF24"/><stop offset="1" stop-color="#F97316"/></linearGradient><linearGradient id="t4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#06B6D4"/></linearGradient><linearGradient id="t5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+  <linearGradient id="flameG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F97316"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+  <linearGradient id="trophyG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBBF24"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="300" fill="url(#cardBg)"/>
+  <rect width="1200" height="300" fill="url(#glowA)"/>
+  <rect width="1200" height="300" fill="url(#glowB)"/>
+  <rect width="1200" height="2" fill="url(#edge)"/>
+  
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.1s" dur="0.6s" fill="freeze"/>
+    <text x="44" y="62" class="mono" font-size="13" letter-spacing="2.5" fill="#94A3B8">CONTRIBUTIONS · LAST 12 MONTHS</text>
+    <text x="42" y="138" class="sans" font-size="68" font-weight="800" fill="url(#rainbow)">16</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.25s" dur="0.6s" fill="freeze"/>
+    <rect x="44" y="172" width="180" height="94" rx="18" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="60" y="188" width="36" height="36" rx="11" fill="url(#flameG)"/><g transform="translate(58 186) scale(1)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 8c1 5 6 7 6 13a6 6 0 0 1-12 0c0-3 1.5-4.5 3-6 0 2 1 3.5 2.5 3.5C19.5 15 18 12 20 8z"/></g>
+    <text x="108" y="214" class="sans" font-size="26" font-weight="800" fill="#E2E8F0">0</text>
+    <text x="60" y="250" class="sans" font-size="13.5" fill="#94A3B8">Current streak · days</text>
+    <rect x="240" y="172" width="180" height="94" rx="18" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="256" y="188" width="36" height="36" rx="11" fill="url(#trophyG)"/><g transform="translate(254 186) scale(1)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9h12v6a6 6 0 0 1-12 0z"/><path d="M14 11h-4a4 4 0 0 0 4 5M26 11h4a4 4 0 0 1-4 5M20 21v5M15 30h10M17 26h6"/></g>
+    <text x="304" y="214" class="sans" font-size="26" font-weight="800" fill="#E2E8F0">2</text>
+    <text x="256" y="250" class="sans" font-size="13.5" fill="#94A3B8">Longest streak · days</text>
+  </g>
+  <rect x="445" y="34" width="1" height="232" fill="#FFFFFF" fill-opacity="0.08"/>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.3s" dur="0.6s" fill="freeze"/>
+        <rect x="470" y="30" width="222.66666666666666" height="112" rx="18" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+        <rect x="490" y="62" width="48" height="48" rx="14" fill="url(#t0)"/>
+        <g transform="translate(494 66) scale(1)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="20" cy="20" r="5.5"/><path d="M8 20h6.5M25.5 20H32"/></g>
+        <text x="554" y="90" class="sans" font-size="30" font-weight="800" fill="#E2E8F0">15</text>
+        <text x="555" y="112" class="sans" font-size="13.5" fill="#94A3B8">Commits · 12 mo</text>
+      </g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.4s" dur="0.6s" fill="freeze"/>
+        <rect x="708.6666666666666" y="30" width="222.66666666666666" height="112" rx="18" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+        <rect x="728.6666666666666" y="62" width="48" height="48" rx="14" fill="url(#t1)"/>
+        <g transform="translate(732.6666666666666 66) scale(1)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="13" cy="11" r="3"/><circle cx="13" cy="29" r="3"/><circle cx="27" cy="29" r="3"/><path d="M13 14v12M27 26v-9a4 4 0 0 0-4-4h-5"/><path d="M20.5 10l-3 3 3 3"/></g>
+        <text x="792.6666666666666" y="90" class="sans" font-size="30" font-weight="800" fill="#E2E8F0">0</text>
+        <text x="793.6666666666666" y="112" class="sans" font-size="13.5" fill="#94A3B8">Pull Requests</text>
+      </g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.5s" dur="0.6s" fill="freeze"/>
+        <rect x="947.3333333333333" y="30" width="222.66666666666666" height="112" rx="18" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+        <rect x="967.3333333333333" y="62" width="48" height="48" rx="14" fill="url(#t2)"/>
+        <g transform="translate(971.3333333333333 66) scale(1)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="20" cy="20" r="10"/><circle cx="20" cy="20" r="1.8" fill="#fff" stroke="none"/></g>
+        <text x="1031.3333333333333" y="90" class="sans" font-size="30" font-weight="800" fill="#E2E8F0">0</text>
+        <text x="1032.3333333333333" y="112" class="sans" font-size="13.5" fill="#94A3B8">Issues</text>
+      </g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.6000000000000001s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.6000000000000001s" dur="0.6s" fill="freeze"/>
+        <rect x="470" y="158" width="222.66666666666666" height="112" rx="18" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+        <rect x="490" y="190" width="48" height="48" rx="14" fill="url(#t3)"/>
+        <g transform="translate(494 194) scale(1)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 9l3.3 6.9 7.5 1-5.5 5.2 1.4 7.5L20 26l-6.7 3.6 1.4-7.5-5.5-5.2 7.5-1z"/></g>
+        <text x="554" y="218" class="sans" font-size="30" font-weight="800" fill="#E2E8F0">77</text>
+        <text x="555" y="240" class="sans" font-size="13.5" fill="#94A3B8">Stars Earned</text>
+      </g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.7s" dur="0.6s" fill="freeze"/>
+        <rect x="708.6666666666666" y="158" width="222.66666666666666" height="112" rx="18" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+        <rect x="728.6666666666666" y="190" width="48" height="48" rx="14" fill="url(#t4)"/>
+        <g transform="translate(732.6666666666666 194) scale(1)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 10h14a2 2 0 0 1 2 2v18H14a2 2 0 0 1-2-2z"/><path d="M12 26a2 2 0 0 1 2-2h14"/><path d="M17 10v8l2.5-1.8L22 18v-8"/></g>
+        <text x="792.6666666666666" y="218" class="sans" font-size="30" font-weight="800" fill="#E2E8F0">86</text>
+        <text x="793.6666666666666" y="240" class="sans" font-size="13.5" fill="#94A3B8">Public Repos</text>
+      </g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.8s" dur="0.6s" fill="freeze"/>
+        <rect x="947.3333333333333" y="158" width="222.66666666666666" height="112" rx="18" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+        <rect x="967.3333333333333" y="190" width="48" height="48" rx="14" fill="url(#t5)"/>
+        <g transform="translate(971.3333333333333 194) scale(1)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="15" r="4.5"/><path d="M8 30c0-4.4 3.6-7 8-7s8 2.6 8 7"/><circle cx="27" cy="16" r="3.5"/><path d="M26 23c3.4.2 6 2.5 6 6"/></g>
+        <text x="1031.3333333333333" y="218" class="sans" font-size="30" font-weight="800" fill="#E2E8F0">20</text>
+        <text x="1032.3333333333333" y="240" class="sans" font-size="13.5" fill="#94A3B8">Followers</text>
+      </g>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="24" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+</svg>
